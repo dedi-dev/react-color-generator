@@ -12,7 +12,7 @@ Color Generator is a web application that allows you to create a palette of 20 d
 
 ## Demo
 
-You can see a live demo of the application [here](#).
+You can see a live demo of the application [here](https://668ba1dcabe78aa711b45f65--dedi-react-color-generator-v1.netlify.app/).
 
 ## Features
 
